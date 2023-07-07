@@ -1,10 +1,6 @@
-
 {
-    "compilerOptions": {
-      // Configure compiler options specific to vite.config.ts if needed
-    },
-    "include": [
-      "vite.config.ts"
-    ]
-  }
-  
+  "compilerOptions": {
+    // Configure compiler options specific to vite.config.ts if needed
+  },
+  "include": ["vite.config.ts"]
+}
